@@ -488,7 +488,6 @@ const FinalizarCompra = () => {
             </div>
           </div>
         </footer>
-        {/* Você pode colocar o CSS em um arquivo separado ou usar styled-components */}
       </>
     );
   };
